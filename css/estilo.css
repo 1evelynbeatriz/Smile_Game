@@ -5,6 +5,7 @@
     display:inline;
   }
   .inicial {
+    border-radius: 8%;
     text-align: center;
     font-size: 100px;
     background-color: rgb(255, 136, 182);
@@ -15,6 +16,7 @@
     margin: 20px;
   }
   .acertou {
+    border-radius: 8%;
     text-align: center;
     color: white;
     background-color: rgb(194, 103, 138);
@@ -25,6 +27,7 @@
     margin: 20px;
   }
   .errou {
+    border-radius: 8%;
     text-align: center;
     font-size: 10px;
     color: white;
@@ -104,6 +107,11 @@ h5 {
   font-size: large;
   margin-bottom: 10px
 }
+
+  button {
+    color: #000000;
+    background-color: #fff8fb;
+  }
 
 
   
